@@ -1,4 +1,4 @@
-<script>
+
 (function () {
 
 const typeMap = {
@@ -385,4 +385,3 @@ function wait(){
 window.addEventListener("load", wait);
 
 })();
-</script>
