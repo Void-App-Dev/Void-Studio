@@ -372,7 +372,9 @@ function initGradflow(container) {
 
   requestAnimationFrame(frame);
 }
+  
 window.initGradflow = initGradflow;
+  
 // ---- WAIT FOR ELEMENT ----
 function wait(){
   const el = document.getElementById("gradflow");
